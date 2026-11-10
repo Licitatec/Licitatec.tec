@@ -175,4 +175,13 @@
       .btn-main,.btn-outline-main{width:100%;margin-bottom:10px}
       .hero-panel{display:none}
     }
-  
+
+
+/* Contact page accessibility and mobile spacing */
+.contact-page #contato{padding-top:140px}
+.form-select{border-radius:14px;padding:13px 15px;border:1px solid #DCE6F2}
+.form-select:focus{box-shadow:0 0 0 .25rem rgba(30,136,229,.14);border-color:var(--secondary)}
+.form-note{font-size:.9rem;line-height:1.5;color:var(--muted)}
+.footer-email{color:#fff;text-decoration:underline;text-underline-offset:3px}
+.footer-email:hover{color:#F4B942}
+@media(max-width:576px){.contact-page #contato{padding-top:112px}.contact-info{padding:30px 24px}}
