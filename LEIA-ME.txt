@@ -1,0 +1,11 @@
+LICITATEC — código-fonte do site estático
+
+Conteúdo: página inicial, página de contacto, folha de estilos, JavaScript e recursos estáticos.
+
+A secção de indicadores não confirmados foi removida da página inicial.
+
+Publicação: envie o conteúdo desta pasta para o serviço de alojamento estático escolhido, mantendo index.html na raiz publicada.
+
+Formulário: contato.html incorpora o formulário Tally público https://tally.so/r/VpjM9J. As respostas são recebidas e consultadas na conta Tally; este pacote não contém nem cria um painel administrativo próprio.
+
+Antes de divulgar, teste o formulário com dados fictícios, confirme as notificações na conta Tally e reveja os textos, dados profissionais e avisos de privacidade com a advogada. Não recolha documentos nem detalhes confidenciais do caso pelo formulário público.
